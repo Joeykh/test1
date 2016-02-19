@@ -1,8 +1,8 @@
-Textout "Hi there";
-Textout "Hi everybody";
-print ("Hello");
-print ("Hellow my Dear friend!");
-print ("Glad to see you!");
+Textout "Hi there;";
+Textout "Hi everybody;";
+print ("Hello;");
+print ("Hellow my Dear friend!;");
+print ("Glad to see you!;");
 
 
 
