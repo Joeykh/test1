@@ -1,5 +1,5 @@
-Textout "Hi there";
-Textout "Hi everybody";
-print ("Hello");
+Textout "Hi there;";
+Textout "Hi everybody;";
+print ("Hello;");
 
 
