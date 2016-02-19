@@ -1,2 +1,0 @@
-print ("Goobbye");
-print ("Good bye now!");
