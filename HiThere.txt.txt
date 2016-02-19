@@ -1,1 +1,3 @@
 Textout "Hi there";
+Textout "Hi everybody";
+
